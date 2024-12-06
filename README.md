@@ -1,7 +1,7 @@
 ## Installation
 1. Clone the project:
     ```bash 
-    git clone git@gitlab.com:lucky-game-app/lucky-game-app.git
+    git clone git@github.com:Smolinsky/lucky-game-app.git
     ```
 2. Go to project dir: ``cd <project_dir>``
 
